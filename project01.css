@@ -1,0 +1,80 @@
+body{
+    margin: 0px;
+}
+#title{
+    float: left;
+    border: 0px solid black;      /*틀 선 굵기와 종류 색상*/
+    width: 1275px;       /*가로 넓이*/
+    height: 200px;      /*세로 높이*/
+    text-align: center;     /*중앙 정렬*/
+}
+#med{
+    float: left;
+    border: 0px solid black;      /*틀 선 굵기와 종류 색상*/
+    width: 1275px;       /*가로 넓이*/
+    height: 200px;      /*세로 높이*/
+    text-align: center;     /*중앙 정렬*/
+}
+#srch{
+    float: left;
+    border: 0px solid black;      /*틀 선 굵기와 종류 색상*/
+    width: 300px;       /*가로 넓이*/
+    height: 200px;      /*세로 높이*/
+    text-align: center;     /*중앙 정렬*/
+    margin-left: 488px;     /*칸 이동*/
+}
+#list{
+    float: left;
+    border: 0px solid black;      /*틀 선 굵기와 종류 색상*/
+    width: 1275px;       /*가로 넓이*/
+    height: 50px;      /*세로 높이*/
+    text-align: center;     /*중앙 정렬*/
+}
+.but{
+    float: left;
+    border: 2px solid black;      /*틀 선 굵기와 종류 색상*/
+    width: 251px;       /*가로 넓이*/
+    height: 50px;      /*세로 높이*/
+    text-align: center;     /*중앙 정렬*/
+    padding-top: 10px;
+}
+#out{
+    float: left;
+    border: 0px solid black;      /*틀 선 굵기와 종류 색상*/
+    width: 1275px;       /*가로 넓이*/
+    height: 250px;      /*세로 높이*/
+    text-align: center;     /*중앙 정렬*/
+}
+#pot{
+    float: left;
+    border: 0px solid black;      /*틀 선 굵기와 종류 색상*/
+    width: 1275px;       /*가로 넓이*/
+    height: 1000px;      /*세로 높이*/
+    text-align: center;     /*중앙 정렬*/
+    
+}
+#num{
+    float: left;
+    border: 2px solid black;      /*틀 선 굵기와 종류 색상*/
+    width: 1275px;       /*가로 넓이*/
+    height: 50px;      /*세로 높이*/
+    text-align: center;     /*중앙 정렬*/
+}
+.pt{
+    float: left;
+    border: 0px solid black;      /*틀 선 굵기와 종류 색상*/
+    width: 200px;       /*가로 넓이*/
+    height: 300px;      /*세로 높이*/
+    text-align: center;     /*중앙 정렬*/
+    margin-left: 87px;
+    margin-top: 100px;
+}
+span{
+    font-size: 20px;
+}
+span:hover{
+    color: rgb(252, 3, 3);
+}
+b{
+    font-size: 20px;
+}
